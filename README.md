@@ -10,7 +10,4 @@
 #10.sharing bike
 #11.bank marketing
 
-#기타
-######README.md
-
 
