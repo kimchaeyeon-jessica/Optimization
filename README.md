@@ -1,3 +1,7 @@
+#Linear Regression
+
+
+
 ## 1.재고주기 
 ## 2.boston house prices
 ## 3.california house prices
