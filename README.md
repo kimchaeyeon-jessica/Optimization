@@ -1,4 +1,9 @@
 # Linear Regression
+# Multiple Linear Regression
+# K-Means
+# KNN
+# Logistic Regression
+# fbprophet
 
 
 
